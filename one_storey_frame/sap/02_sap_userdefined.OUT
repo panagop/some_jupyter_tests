@@ -1,0 +1,22 @@
+ SAP2000 v14.2.4 Advanced (Analysis Build 8860/32)                              
+ File: D:\mypythons\jupyters\phd\one_storey_frame\sap\02_sap_userdefined.OUT    
+                                                                     
+                                                                       
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+       1               -   -   -   -   -   -
+       2               +       A       A    
+       3               -   -   -   -   -   -
+       4               +       A       A    
+    NULL                                    
+
+  CONSTRAINTS         U1  U2  U3  R1  R2  R3
+   DIAPH                   A                
