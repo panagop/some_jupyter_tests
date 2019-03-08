@@ -1,0 +1,24 @@
+ Input file: onestinf
+        1storey 1bay example                                                
+
+ Critical interstorey drift = 10.0%
+ Horizontal acceleration scaling factor = *******
+ X Input motion file: LEFL_7  
+ 
+
+ Element group 1 - R.C. BEAM ELEMENTS (TYPE 6)
+
+            1           0.1496         0.3700         0.1056
+
+ Element group 2 - R.C. BEAM ELEMENTS (TYPE 6)
+
+            1           0.1806         0.2499         0.1656
+            2           0.1691         0.2535         0.1694
+
+
+ Element group 3 - INFILL PANEL ELEMENTS (TYPE 5)
+
+  ELEMENT      GREATEST  ABSOLUTE              SHEAR STRAIN RATIOS
+  NUMBER      SHEAR STRESS (kN/m2)   GREATEST/CRACKING    GREATEST/MAX
+
+     1               269.62                 7.5927            1.6706

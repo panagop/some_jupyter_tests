@@ -1,0 +1,16 @@
+ Input file: onest   
+        1storey 1bay example                                                
+
+ Critical interstorey drift = 10.0%
+ Horizontal acceleration scaling factor = 99.8100
+ X Input motion file: LEFL    
+ 
+
+ Element group 1 - R.C. BEAM ELEMENTS (TYPE 6)
+
+            1           0.2385         0.3867         0.1090
+
+ Element group 2 - R.C. BEAM ELEMENTS (TYPE 6)
+
+            1           0.3314         0.2709         0.1768
+            2           0.3232         0.2661         0.1736

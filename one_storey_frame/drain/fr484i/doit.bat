@@ -1,0 +1,1 @@
+damage.exe < t.txt
