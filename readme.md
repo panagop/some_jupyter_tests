@@ -13,8 +13,10 @@
   - ec8
     - [cls_seismic_action](codes/eurocodes/ec8/cls_seismic_action.ipynb)
     - [raw_ch3_seismic_action](codes/eurocodes/ec8/raw_ch3_seismic_action.ipynb)
--greek
+- greek
+  - eak
     - [eak_spectrum](codes/greek/eak_spectrum.ipynb)
+  - kanepe
     - [kanepe_rect](codes/greek/kanepe_rect.ipynb)
   
 ### common
